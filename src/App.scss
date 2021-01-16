@@ -19,3 +19,12 @@ $array-size: 33px;
   width: $array-size;
   height: $array-size;
 }
+
+.nav-panel{
+  padding: 0 67px;
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  }
+}

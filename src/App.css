@@ -18,4 +18,13 @@
   height: 33px;
 }
 
+.nav-panel {
+  padding: 0 67px;
+}
+.nav-panel ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
 /*# sourceMappingURL=App.css.map */
