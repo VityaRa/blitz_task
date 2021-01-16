@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+$array-size: 33px;
+
+.container__home{
+  background: url('./Images/middle_01.jpg');
+  min-height: 920px;
+}
+
+.down-array{
+  background-image: url('./Images/middle_04_04.png');
+  background-repeat: no-repeat;
+  background-size: none;
+  width: 100%;
+  object-fit: none;
+  width: $array-size;
+  height: $array-size;
+}
