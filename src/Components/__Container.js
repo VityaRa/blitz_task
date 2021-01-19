@@ -6,7 +6,7 @@ import Content from './__Content'
 
 function Container() {
   return (
-    <div className="Container">
+    <div className="container__contains">
       <Photo/>
       <Content/>
     </div>

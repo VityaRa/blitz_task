@@ -2,9 +2,7 @@ import React from 'react';
 
 function Photo() {
   return (
-    <div className="Photo">
-
-    </div>
+      <div className="photo"></div>
   );
 }
 
