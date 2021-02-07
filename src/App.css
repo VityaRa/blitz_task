@@ -117,7 +117,7 @@
   user-select: none;
   display: flex;
   align-items: center;
-  position: fixed;
+  position: absolute;
   top: 45px;
   left: 45px;
   width: 100px;

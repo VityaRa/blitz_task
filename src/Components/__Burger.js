@@ -1,28 +1,28 @@
 function Burger() {
   return (
-    <div class="hamburger-menu">
+    <div className="hamburger-menu">
       <input id="menu__toggle" type="checkbox" />
-      <label class="menu__btn" for="menu__toggle">
+      <label className="menu__btn" htmlFor="menu__toggle">
         <span>&#8734; MENU</span>
       </label>
-      <ul class="menu__box">
+      <ul className="menu__box">
         <li>
-          <a class="menu__item" href="#">
+          <a className="menu__item" href="#">
             HOME
           </a>
         </li>
         <li>
-          <a class="menu__item" href="#">
+          <a className="menu__item" href="#">
             ABOUT ME
           </a>
         </li>
         <li>
-          <a class="menu__item" href="#">
+          <a className="menu__item" href="#">
             PORTFOLIO
           </a>
         </li>
         <li>
-          <a class="menu__item" href="#">
+          <a className="menu__item" href="#">
            CONTACT
           </a>
         </li>
